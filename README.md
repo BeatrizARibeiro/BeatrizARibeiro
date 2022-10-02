@@ -1,3 +1,4 @@
+<img align="center" height="180em" src="../eulinda"/>
 ## Oii, eu sou a Beatriz
 
 <div align="center">
