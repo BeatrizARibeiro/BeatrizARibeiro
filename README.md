@@ -1,5 +1,13 @@
-<img align="center" height="180em" src="../eulinda"/>
-## Oii, eu sou a Beatriz
+<div align="center">
+<img height="120em" src="icone.png"/>
+  
+## 🌸Oii, eu sou a Beatriz🌸
+</div>
+
+>  - Sou formada em Informática para Internet na instituição Fernando Prestes
+>  - Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Fatec Sorocaba
+
+<br>
 
 <div align="center">
   <a href="https://github.com/BeatrizARibeiro">
@@ -19,12 +27,10 @@
  
 <div align="center"> 
   <a href="https://www.instagram.com/triz_rib" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:biaalves.bar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/beatrizribeiro1010" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-   ##
-   
+
    
   ![Snake animation](https://github.com/BeatrizARibeiro/BeatrizARibeiro/blob/output/github-contribution-grid-snake.svg)
  
