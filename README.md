@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300cc&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c42a0&height=120&section=header"/>
 
 <div align="center">
 <img height="150em" src="icon.png"/>
@@ -54,4 +54,4 @@
  
 </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300cc&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c42a0&height=120&section=footer"/>
