@@ -3,7 +3,7 @@
 <div align="center">
 <img height="150em" src="icon.png"/>
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=33&center=true&vCenter=true&width=1000&lines=Oii,+eu+sou+a+Triz+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fbf2f3&size=33&center=true&vCenter=true&width=1000&lines=Oii,+eu+sou+a+Triz+:%29)](https://git.io/typing-svg)
 </div>
 
 <div align="center"><br>
