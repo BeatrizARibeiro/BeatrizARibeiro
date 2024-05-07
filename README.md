@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4da6&height=120&section=header"/>
 
 <div align="center">
-<img height="150em" src="icon.png"/>
+<img height="150em" src="icone.png"/>
   
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4da6&size=33&center=true&vCenter=true&width=1000&lines=Oii,+eu+sou+a+Triz+:%29)](https://git.io/typing-svg)
 </div>
