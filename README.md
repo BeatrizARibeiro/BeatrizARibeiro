@@ -1,22 +1,22 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c42a0&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4da6&height=120&section=header"/>
 
 <div align="center">
 <img height="150em" src="icon.png"/>
   
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1c42a0&size=33&center=true&vCenter=true&width=1000&lines=Oii,+eu+sou+a+Triz+:%29)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff4da6&size=33&center=true&vCenter=true&width=1000&lines=Oii,+eu+sou+a+Triz+:%29)](https://git.io/typing-svg)
 </div>
 
 <div align="center"><br>
-💜 Formada em Informática para Internet na instituição <a href="https://www.etecfernandoprestes.com.br" target="blank">Etec Fernando Prestes</a> (2018 - 2020) 
+🌸 Formada em Informática para Internet na instituição <a href="https://www.etecfernandoprestes.com.br" target="blank">Etec Fernando Prestes</a> (2018 - 2020) 
   <br><br>
-💜 Estudante de Análise e Desenvolvimento de Sistemas na instituição <a href="http://fatecsorocaba.edu.br" target="_blank">Fatec Sorocaba</a> (2021 - 2023)
+🌸 Graduada em Análise e Desenvolvimento de Sistemas na instituição <a href="http://fatecsorocaba.edu.br" target="_blank">Fatec Sorocaba</a> (2021 - 2023)
 </div>
 
 <br><br>
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BeatrizARibeiro&show_icons=true&theme=nightowl"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizARibeiro&layout=compact&langs_count=7&theme=nightowl"/><br><br>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BeatrizARibeiro&show_icons=true&theme=jolly"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeatrizARibeiro&layout=compact&langs_count=7&theme=jolly"/><br><br>
     
   ## Skills
 </div>
@@ -53,4 +53,4 @@
  
 </div>
   
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1c42a0&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff4da6&height=120&section=footer"/>
